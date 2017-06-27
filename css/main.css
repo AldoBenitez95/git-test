@@ -1,0 +1,22 @@
+.container{
+	padding: 20px 0px;
+}
+#title{
+	color:pink;
+
+}
+.search{
+	padding: 10px 50px;
+}
+#avatar{
+	height: 80px;
+	width: 80px;
+	border-radius: circle;
+}
+
+#template{
+	border: solid 1px #ccc;
+	box-shadow: 4px 4px 4px #ccc;
+	padding: 15px;
+	margin: 10px;
+}
